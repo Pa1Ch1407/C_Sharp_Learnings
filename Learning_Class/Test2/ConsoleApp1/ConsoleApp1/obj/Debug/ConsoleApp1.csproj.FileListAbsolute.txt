@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Practice\C# Learnings\Learning_Class\Test2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

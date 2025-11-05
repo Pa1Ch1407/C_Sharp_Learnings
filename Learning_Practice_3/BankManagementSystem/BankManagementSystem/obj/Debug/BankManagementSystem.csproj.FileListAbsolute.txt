@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
+C:\Practice\C# Learnings\Learning_Practice_3\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe.config
