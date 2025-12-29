@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe.config
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\bin\Debug\Generic_Class.pdb
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\obj\Debug\Generic_Class.exe
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\obj\Debug\Generic_Class.pdb
+C:\Practice\C# Learnings\Learning_Practice_6\Generic_Class\Generic_Class\obj\Debug\Generic_Class.exe.config

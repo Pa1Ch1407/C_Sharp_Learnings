@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll

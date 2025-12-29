@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\net8.0\ProtoTypeDesignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\net8.0\ProtoTypeDesignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\net8.0\ProtoTypeDesignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\net8.0\ProtoTypeDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\net8.0\ProtoTypeDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\refint\ProtoTypeDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ProtoTypeDesignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\net8.0\ref\ProtoTypeDesignPattern.dll

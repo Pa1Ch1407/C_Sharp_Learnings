@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\net8.0\FactoryMethodDesignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\net8.0\FactoryMethodDesignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\net8.0\FactoryMethodDesignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\net8.0\FactoryMethodDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\net8.0\FactoryMethodDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\refint\FactoryMethodDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\FactoryMethodDesignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\net8.0\ref\FactoryMethodDesignPattern.dll

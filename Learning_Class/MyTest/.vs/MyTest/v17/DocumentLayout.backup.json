@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Practice\\C# Learnings\\Learning_Class\\MyTest\\",
+  "WorkspaceRootPath": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Learning_Class\\MyTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2C823AE-F45A-480E-A66F-655841AF2C27}|MyTest\\MyTest.csproj|c:\\practice\\c# learnings\\learning_class\\mytest\\mytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3CA10F3-9E5E-4CC3-BAB9-B3C84E1FF51E}|ExceptionHandling\\ExceptionHandling.csproj|c:\\practice\\git\\c_sharp_learnings\\c_sharp_learnings\\learning_class\\mytest\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CA10F3-9E5E-4CC3-BAB9-B3C84E1FF51E}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C823AE-F45A-480E-A66F-655841AF2C27}|MyTest\\MyTest.csproj|c:\\practice\\git\\c_sharp_learnings\\c_sharp_learnings\\learning_class\\mytest\\mytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C823AE-F45A-480E-A66F-655841AF2C27}|MyTest\\MyTest.csproj|solutionrelative:mytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Learning_Class\\MyTest\\MyTest\\Program.cs",
+              "DocumentMoniker": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Learning_Class\\MyTest\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Learning_Class\\MyTest\\ExceptionHandling\\Program.cs*",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:18:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Learning_Class\\MyTest\\MyTest\\Program.cs",
               "RelativeDocumentMoniker": "MyTest\\Program.cs",
-              "ToolTip": "C:\\Practice\\C# Learnings\\Learning_Class\\MyTest\\MyTest\\Program.cs",
+              "ToolTip": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Learning_Class\\MyTest\\MyTest\\Program.cs",
               "RelativeToolTip": "MyTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T00:30:17.122Z",
               "EditorCaption": ""

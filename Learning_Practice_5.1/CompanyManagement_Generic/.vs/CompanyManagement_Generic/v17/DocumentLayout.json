@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\C# Learnings\\Learning_Practice_5.1\\CompanyManagement_Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7F903E-D9BD-4EAC-8D1F-C83672139CE5}|CompanyManagement_Generic\\CompanyManagement_Generic.csproj|c:\\practice\\c# learnings\\learning_practice_5.1\\companymanagement_generic\\companymanagement_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7F903E-D9BD-4EAC-8D1F-C83672139CE5}|CompanyManagement_Generic\\CompanyManagement_Generic.csproj|solutionrelative:companymanagement_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Learning_Practice_5.1\\CompanyManagement_Generic\\CompanyManagement_Generic\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyManagement_Generic\\Program.cs",
+              "ToolTip": "C:\\Practice\\C# Learnings\\Learning_Practice_5.1\\CompanyManagement_Generic\\CompanyManagement_Generic\\Program.cs",
+              "RelativeToolTip": "CompanyManagement_Generic\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:47:55.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

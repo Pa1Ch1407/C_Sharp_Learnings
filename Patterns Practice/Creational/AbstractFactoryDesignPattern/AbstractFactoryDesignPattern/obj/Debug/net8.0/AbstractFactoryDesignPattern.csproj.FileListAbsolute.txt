@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\refint\AbstractFactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\ref\AbstractFactoryDesignPattern.dll

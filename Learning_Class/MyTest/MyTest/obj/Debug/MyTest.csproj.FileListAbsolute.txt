@@ -1,0 +1,8 @@
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\bin\Debug\MyTest.exe.config
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\bin\Debug\MyTest.exe
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\bin\Debug\MyTest.pdb
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\obj\Debug\MyTest.csproj.AssemblyReference.cache
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\obj\Debug\MyTest.exe
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\obj\Debug\MyTest.pdb
+C:\Practice\Git\C_Sharp_Learnings\C_Sharp_Learnings\Learning_Class\MyTest\MyTest\obj\Debug\MyTest.exe.config

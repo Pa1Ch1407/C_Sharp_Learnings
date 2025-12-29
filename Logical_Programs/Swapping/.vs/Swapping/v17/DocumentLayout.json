@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\C# Learnings\\Logical_Programs\\Swapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A3954F-DF7E-4531-8908-3C99DC7A15BC}|All_Kind_Of_Number_Logic\\All_Kind_Of_Number_Logic.csproj|c:\\practice\\c# learnings\\logical_programs\\swapping\\all_kind_of_number_logic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A3954F-DF7E-4531-8908-3C99DC7A15BC}|All_Kind_Of_Number_Logic\\All_Kind_Of_Number_Logic.csproj|solutionrelative:all_kind_of_number_logic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F59AC1-5B8A-49F2-930C-A86DA7F4C007}|Swapping\\Swapping.csproj|c:\\practice\\c# learnings\\logical_programs\\swapping\\swapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F59AC1-5B8A-49F2-930C-A86DA7F4C007}|Swapping\\Swapping.csproj|solutionrelative:swapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Logical_Programs\\Swapping\\All_Kind_Of_Number_Logic\\Program.cs",
+              "RelativeDocumentMoniker": "All_Kind_Of_Number_Logic\\Program.cs",
+              "ToolTip": "C:\\Practice\\C# Learnings\\Logical_Programs\\Swapping\\All_Kind_Of_Number_Logic\\Program.cs",
+              "RelativeToolTip": "All_Kind_Of_Number_Logic\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:07:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Logical_Programs\\Swapping\\Swapping\\Program.cs",
+              "RelativeDocumentMoniker": "Swapping\\Program.cs",
+              "ToolTip": "C:\\Practice\\C# Learnings\\Logical_Programs\\Swapping\\Swapping\\Program.cs",
+              "RelativeToolTip": "Swapping\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:00:59.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

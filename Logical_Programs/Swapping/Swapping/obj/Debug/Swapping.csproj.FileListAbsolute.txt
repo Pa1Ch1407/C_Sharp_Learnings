@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\bin\Debug\Swapping.exe.config
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\bin\Debug\Swapping.exe
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\bin\Debug\Swapping.pdb
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\obj\Debug\Swapping.exe
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\obj\Debug\Swapping.pdb
+C:\Practice\C# Learnings\Logical_Programs\Swapping\Swapping\obj\Debug\Swapping.exe.config

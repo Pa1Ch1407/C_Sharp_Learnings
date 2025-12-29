@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\ProtoTypeDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB43656-B90F-4E45-BCB4-9A81A38DD83C}|ProtoTypeDesignPattern\\ProtoTypeDesignPattern.csproj|c:\\practice\\c# learnings\\patterns practice\\creational\\prototypedesignpattern\\prototypedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB43656-B90F-4E45-BCB4-9A81A38DD83C}|ProtoTypeDesignPattern\\ProtoTypeDesignPattern.csproj|solutionrelative:prototypedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\ProtoTypeDesignPattern\\ProtoTypeDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ProtoTypeDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\ProtoTypeDesignPattern\\ProtoTypeDesignPattern\\Program.cs*",
+              "RelativeToolTip": "ProtoTypeDesignPattern\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:45:50.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\bin\Debug\All_Kind_Of_Number_Logic.exe.config
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\bin\Debug\All_Kind_Of_Number_Logic.exe
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\bin\Debug\All_Kind_Of_Number_Logic.pdb
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\obj\Debug\All_Kind_Of_Number_Logic.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\obj\Debug\All_Kind_Of_Number_Logic.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\obj\Debug\All_Kind_Of_Number_Logic.exe
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\obj\Debug\All_Kind_Of_Number_Logic.pdb
+C:\Practice\C# Learnings\Logical_Programs\Swapping\All_Kind_Of_Number_Logic\obj\Debug\All_Kind_Of_Number_Logic.exe.config

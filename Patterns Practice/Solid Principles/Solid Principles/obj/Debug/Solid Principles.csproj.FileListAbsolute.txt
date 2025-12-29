@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\bin\Debug\Solid Principles.exe.config
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\bin\Debug\Solid Principles.exe
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\bin\Debug\Solid Principles.pdb
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\obj\Debug\Solid Principles.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\obj\Debug\Solid Principles.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\obj\Debug\Solid Principles.exe
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\obj\Debug\Solid Principles.pdb
+C:\Practice\C# Learnings\Patterns Practice\Solid Principles\Solid Principles\obj\Debug\Solid Principles.exe.config

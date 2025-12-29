@@ -1,0 +1,8 @@
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\bin\Debug\CompanyManagement_Generic.exe.config
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\bin\Debug\CompanyManagement_Generic.exe
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\bin\Debug\CompanyManagement_Generic.pdb
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\obj\Debug\CompanyManagement_Generic.csproj.AssemblyReference.cache
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\obj\Debug\CompanyManagement_Generic.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\obj\Debug\CompanyManagement_Generic.exe
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\obj\Debug\CompanyManagement_Generic.pdb
+C:\Practice\C# Learnings\Learning_Practice_5.1\CompanyManagement_Generic\CompanyManagement_Generic\obj\Debug\CompanyManagement_Generic.exe.config

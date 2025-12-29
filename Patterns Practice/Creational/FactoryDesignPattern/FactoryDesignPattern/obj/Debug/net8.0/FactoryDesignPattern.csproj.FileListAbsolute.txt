@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
