@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
+      "projectUniqueName": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
       "projectName": "BuilderDesignPattern",
-      "projectPath": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
+      "projectPath": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\obj\\",
+      "outputPath": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

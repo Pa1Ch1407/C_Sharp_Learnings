@@ -1,0 +1,14 @@
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\bin\Debug\net8.0\SingletonDeignPattern.exe
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\bin\Debug\net8.0\SingletonDeignPattern.deps.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\bin\Debug\net8.0\SingletonDeignPattern.runtimeconfig.json
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\bin\Debug\net8.0\SingletonDeignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\bin\Debug\net8.0\SingletonDeignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.AssemblyInfoInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.AssemblyInfo.cs
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.csproj.CoreCompileInputs.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\refint\SingletonDeignPattern.dll
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.pdb
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\SingletonDeignPattern.genruntimeconfig.cache
+C:\Practice\C# Learnings\Patterns Practice\Creational\SingletonDesignPattern\SingletonDeignPattern\SingletonDeignPattern\obj\Debug\net8.0\ref\SingletonDeignPattern.dll

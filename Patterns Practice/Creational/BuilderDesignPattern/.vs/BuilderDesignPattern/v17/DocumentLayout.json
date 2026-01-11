@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\",
+  "WorkspaceRootPath": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69B6355E-E659-48DB-82DA-BE580DC5A27B}|BuilderDesignPattern\\BuilderDesignPattern.csproj|c:\\practice\\c# learnings\\patterns practice\\creational\\builderdesignpattern\\builderdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69B6355E-E659-48DB-82DA-BE580DC5A27B}|BuilderDesignPattern\\BuilderDesignPattern.csproj|c:\\practice\\git\\c_sharp_learnings\\c_sharp_learnings\\patterns practice\\creational\\builderdesignpattern\\builderdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B6355E-E659-48DB-82DA-BE580DC5A27B}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\Program.cs",
+              "DocumentMoniker": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "BuilderDesignPattern\\Program.cs",
-              "ToolTip": "C:\\Practice\\C# Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Practice\\Git\\C_Sharp_Learnings\\C_Sharp_Learnings\\Patterns Practice\\Creational\\BuilderDesignPattern\\BuilderDesignPattern\\Program.cs",
               "RelativeToolTip": "BuilderDesignPattern\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAqwHUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T12:24:02.635Z",
               "EditorCaption": ""
